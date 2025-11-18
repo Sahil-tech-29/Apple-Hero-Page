@@ -15,7 +15,7 @@ The goal was to replicate Apple’s UI standards with:
 ->Apple-style typography & spacing
 
 
-#Project Structure
+# Project Structure
 📁 Apple-Hero-Section
 │── index.html
 │── style.css
@@ -25,7 +25,7 @@ The goal was to replicate Apple’s UI standards with:
 │── /fonts
 
 
-#Features
+# Features
 1. Pixel-perfect Hero Section :
 
 -> Apple-style typography
